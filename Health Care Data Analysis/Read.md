@@ -174,11 +174,6 @@ By using **Power BI visualization techniques**, this project demonstrates how he
 
 # 👨‍💻 Author
 
-Utkarsh  
+**Pragati**  
 B.Tech – Computer Science Engineering  
 
-🔗 GitHub  
-https://github.com/Utkarsh17032006/Power-BI-Dashboards/blob/main/Health-Care%20Data%20Analysis%20(1).pbix
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/utkarsh-dube-9022b6250/

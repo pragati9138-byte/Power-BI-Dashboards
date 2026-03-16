@@ -142,11 +142,6 @@ Using **Power BI visualization techniques**, this project demonstrates how strea
 
 # 👨‍💻 Author
 
-Utkarsh
+Pragati
 B.Tech – Computer Science Engineering  
 
-🔗 GitHub  
-https://github.com/Utkarsh17032006/Power-BI-Dashboards/blob/main/Netflix.pbix.pbix
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/utkarsh-dube-9022b6250/

@@ -146,11 +146,6 @@ Using **Power BI visualization techniques**, the project highlights how differen
 
 # 👨‍💻 Author
 
-Utkarsh Dube 
+Pragati
 B.Tech – Computer Science Engineering
 
-🔗 GitHub  
-https://github.com/Utkarsh17032006/Power-BI-Dashboards/blob/main/ai%20report.pbix.pbix
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/utkarsh-dube-9022b6250/

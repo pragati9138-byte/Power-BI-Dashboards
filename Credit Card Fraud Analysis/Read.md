@@ -156,11 +156,6 @@ This project demonstrates how **Power BI dashboards can support fraud detection 
 
 # 👨‍💻 Author
 
-Utkarsh 
+**Pragati**
 B.Tech – Computer Science Engineering
 
-🔗 GitHub
-https://github.com/Utkarsh17032006/Power-BI-Dashboards/blob/main/Credit%20card.pbix.pbix
-
-🔗 LinkedIn
-https://www.linkedin.com/in/utkarsh-dube-9022b6250/
