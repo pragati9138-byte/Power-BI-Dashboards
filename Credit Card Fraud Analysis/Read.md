@@ -152,7 +152,6 @@ By analyzing **cities, merchants, card types, and transaction timing**, this das
 
 This project demonstrates how **Power BI dashboards can support fraud detection analysis and decision-making**.
 
----
 
 # 👨‍💻 Author
 
