@@ -138,7 +138,6 @@ The **Netflix / OTT Data Analysis Dashboard** provides insights into **content d
 
 Using **Power BI visualization techniques**, this project demonstrates how streaming platform data can be analyzed to understand **audience preferences and content distribution patterns**.
 
----
 
 # 👨‍💻 Author
 
